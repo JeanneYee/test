@@ -2,6 +2,7 @@
  *  Ex_03 - Conditional
  *  Simple communication through the Serial monitor.
  *  
+ * test
  */
 String rcvString = "";
 int ghost = 0;
